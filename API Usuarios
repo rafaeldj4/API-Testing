@@ -1,4 +1,8 @@
-/* API usuarios: https://jsonplaceholder.typicode.com/users */
+/* 
+Name: API usuarios
+Request Methods: GET
+URL: https://jsonplaceholder.typicode.com/users 
+*/
 
 // 1.Validar que la API devuelva un estado 200
 pm.test("Validar que la API devuelva un estado 200", function() {
